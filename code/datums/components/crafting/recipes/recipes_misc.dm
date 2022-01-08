@@ -41,7 +41,7 @@
 
 /datum/crafting_recipe/curtain
 	name = "Curtains"
-	reqs = list(obj/item/stack/sheet/cloth = 2,
+	reqs = list(/obj/item/stack/sheet/cloth = 2,
 				/obj/item/stack/rods = 1)
 	result = /obj/structure/curtain
 	subcategory = CAT_MISCELLANEOUS
