@@ -3,7 +3,7 @@
 	desc = "a pile of garbage. Smells as good, as it looks, though it may contain something useful. Or may not"
 	icon = 'icons/fallout/objects/crafting.dmi'
 	icon_state = "trash_1"
-	anchored = TRUE
+	anchored = FALSE
 	density = FALSE
 	var/list/loot_players = list()
 	var/list/lootable_trash = list()
